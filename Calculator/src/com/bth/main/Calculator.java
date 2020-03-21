@@ -10,7 +10,7 @@ public class Calculator {
 		
 		return from - number;
 	}
-	public static multiple (int first, int second) {
-		return first * second;
+	public static multiple (int one, int second) {
+		return one * second;
 	}
 }
